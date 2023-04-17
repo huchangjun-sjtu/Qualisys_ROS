@@ -8,7 +8,6 @@
 * Date 2023.02.12
 *******************************************************************************
 */
-// include for Qualisys and KMDP communicate
 #include <unistd.h>
 #include <math.h>
 #include <map>
